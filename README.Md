@@ -110,14 +110,7 @@ window.GEMINI_KEY_latest = "your-gemini-api-key";
 
 ## Promotional Domains
 
-Emails from these domains are considered Promotional by default:
-
-```
-@amazon.com
-@ebay.com
-@shopify.com
-@flipkart.com
-```
+Emails from these domains are considered Promotional by default
 
 ---
 
